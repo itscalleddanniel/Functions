@@ -33,7 +33,7 @@ function get_tax_due(float $price, int $stock, int $tax_rate = 0): float {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Coffee Corner — Stock Control</title>
+    <title>The Candy store</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
